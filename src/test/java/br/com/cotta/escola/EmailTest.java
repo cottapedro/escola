@@ -1,5 +1,6 @@
 package br.com.cotta.escola;
 
+import br.com.cotta.escola.domain.aluno.Email;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
