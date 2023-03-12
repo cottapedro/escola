@@ -1,4 +1,4 @@
-package br.com.cotta.escola.infra.aluno;
+package br.com.cotta.escola.domain.aluno;
 
 import br.com.cotta.escola.domain.aluno.CPF;
 

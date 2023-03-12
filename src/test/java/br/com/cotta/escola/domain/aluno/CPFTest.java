@@ -1,4 +1,4 @@
-package br.com.cotta.escola;
+package br.com.cotta.escola.domain.aluno;
 
 import br.com.cotta.escola.domain.aluno.CPF;
 import org.junit.jupiter.api.Assertions;
